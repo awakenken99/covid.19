@@ -49,9 +49,9 @@ color: #ffffff;
 }
 
 .results > h4 > i {
-    color: #ed2024 !important;
+    color: #ffffff !important;
 background: none !important;
--webkit-text-fill-color: #ed2024 !important;
+-webkit-text-fill-color: #ffffff !important;
 }
 
 h4 {
