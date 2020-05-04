@@ -13,32 +13,33 @@ margin-left: 1px !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
-content: url("https://bit.ly/2WpQiKs") !important;
+content: url("https://bit.ly/3aXIIfm") !important;
 }
+
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
-content: url("https://bit.ly/3c11cgf") !important;
+content: url("https://bit.ly/2SwjOgt") !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
-content: url("https://bit.ly/2KTxdLp") !important;
-}
-
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
 content: url("https://bit.ly/2Ys2ZHj") !important;
 }
 
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+content: url("https://bit.ly/2KTxdLp") !important;
+}
+
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
-content: url("https://bit.ly/3aTDcu9") !important;
+content: url("https://bit.ly/2StqsEe") !important;
 }
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
-content: url("https://bit.ly/2KWUmNc") !important;
+content: url("https://bit.ly/3c11cgf") !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
-content: url("https://bit.ly/3b32l5D") !important;
+content: url("https://bit.ly/3aTDcu9") !important;
 }
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
-content: url("https://bit.ly/3d7LDUn") !important;
+content: url("https://bit.ly/2KWUmNc") !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
@@ -46,19 +47,19 @@ content: url("https://bit.ly/2ypQ8e2") !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
-content: url("https://bit.ly/2SwjOgt") !important;
+content: url("https://bit.ly/3b32l5D") !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
-content: url("https://bit.ly/35poaeN") !important;
+content: url("https://bit.ly/3d7LDUn") !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
-content: url("https://bit.ly/2StqsEe") !important;
+content: url("https://bit.ly/35poaeN") !important;
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
-content: url("https://bit.ly/3aXIIfm") !important;
+content: url("https://bit.ly/2WpQiKs") !important;
 }
 
 border: 1px solid transparent !important;
